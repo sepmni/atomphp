@@ -11,7 +11,6 @@
 </head>
 
 <body>
-    <?= URLROOT; ?>/css/style.css
 </body>
 
 </html>
